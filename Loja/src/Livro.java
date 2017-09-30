@@ -9,8 +9,8 @@ public class Livro extends Produto {
     private int ano;
     private Estado estado;
 
-    public Livro(String nome, String autor, int ano, Estado estado, float preco) {
-        super(nome, preco);
+    public Livro(String nome, String autor, int ano, Estado estado, float preco, int codigoDeBarras) {
+        super(nome, preco, codigoDeBarras);
         this.autor = autor;
         this.ano = ano;
         this.estado = estado;

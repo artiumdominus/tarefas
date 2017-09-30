@@ -9,8 +9,8 @@ public class Roupa extends Produto{
     Tamanho tamanho;
     Cor cor;
 
-    public Roupa(String nome, Tamanho tamanho, Cor cor, float preco) {
-        super(nome, preco);
+    public Roupa(String nome, Tamanho tamanho, Cor cor, float preco, int codigoDeBarras) {
+        super(nome, preco, codigoDeBarras);
         this.tamanho = tamanho;
         this.cor = cor;
     }

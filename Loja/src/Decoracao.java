@@ -8,8 +8,8 @@ public class Decoracao extends Produto{
     private float tamanhoCm;
     private float pesoGramas;
 
-    public Decoracao(String nome, float tamanho, float pesoGramas, float preco) {
-        super(nome, preco);
+    public Decoracao(String nome, float tamanho, float pesoGramas, float preco, int codigoDeBarras) {
+        super(nome, preco, codigoDeBarras);
         this.tamanhoCm = tamanho;
         this.pesoGramas = pesoGramas;
     }
