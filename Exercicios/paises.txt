@@ -1,0 +1,4 @@
+África;Ásia;Europa;América;Oceania
+América;BRA;Brasil;Brasilia;207660929;8515767;ARG;BOL;COL;GUY;PRY;PER;SUR;URY;VEN
+América;ARG;Argentina;Buenos Aires;43590368;2780400;BOL;BRA;CHL;PRY;URY
+América;CHL;Chile;Santiago;17248450;756950;ARG;BOL;PER

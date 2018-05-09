@@ -1,0 +1,4 @@
+Pedro Basilio;22;1.77
+David Matheus;20;1.70
+Diulia Viera;23;1.60
+Rava Monique;31;1.50
