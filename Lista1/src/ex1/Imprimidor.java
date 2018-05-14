@@ -20,7 +20,7 @@ public class Imprimidor extends Thread {
             while (DoisMil.getVez() != isPar) {
                 try {
                     wait();
-                } catch (InterruptedException e) {}
+                } catch (Exception e) {}
             }
 
             System.out.println(i);
